@@ -1,0 +1,44 @@
+				.p1 {border-width:1px; 
+			border-style:solid; 
+			border-color:orange; 
+			font-size:12px; 
+			padding:3px;
+		}
+		p>span {color:gray;
+		}
+        hr { border:1px solid gray;
+        }
+        .information
+        {
+        	margin-top:3em;
+        }
+        span{
+        	font-weight: bold;
+        	font-color:gray;
+        }
+        .box
+        {
+        	font-weight: bold;
+        	font-size:24px;
+        	padding:4px 0;
+        	background-color:#E3E3E3;
+        	border:1px solid gray;
+        	height:31px;
+        	text-align:center;
+        	width:1580px;
+        	float:left;
+        }
+        .box2
+        {
+        	font-weight: bold;
+        	font-size: 30px;
+        	color:white;
+        	background-color:#FF4343;
+        	width : 700px;
+        	position:fixed;
+        	text-align:center;
+        	margin: 50px 0 0 820px;
+        	padding: 3px;
+        }
+        .position_left{
+        	width : 2500px; text-align:left;
